@@ -57,6 +57,81 @@ a:active {
   text-decoration: underline;
 }
 /*medias queries*/
+@media only screen and (min-width: 1px){
+	
+	#icon1{
+		height:20%;
+	}
+	#icon2{
+		height:20%;
+	}
+	#icon3{
+		height:20%;
+	}
+	#buttonskin1{
+		height:20%;
+	}
+	#buttonskin2{
+		height:20%;
+	}
+	#buttonskin3{
+		height:20%;
+	}
+	#hair1{
+		height:20%;
+	}
+	#hair2{
+		height:20%;
+	}
+	#hair3{
+		height:20%;
+	}
+	#no{
+		height:20%;
+	}
+	#yes{
+		height:20%;
+	}
+}
+
+	@media only screen and (min-width: 552px){
+	
+	#icon1{
+		height:40%;
+	}
+	#icon2{
+		height:40%;
+	}
+	#icon3{
+		height:40%;
+	}
+	#buttonskin1{
+		height:40%;
+	}
+	#buttonskin2{
+		height:40%;
+	}
+	#buttonskin3{
+		height:40%;
+	}
+	#hair1{
+		height:40%;
+	}
+	#hair2{
+		height:40%;
+	}
+	#hair3{
+		height:40%;
+	}
+	#no{
+		height:40%;
+	}
+	#yes{
+		height:40%;
+	}
+}
+
+
 @media only screen and (min-width: 576px){
 	
 	#icon1{
@@ -66,7 +141,7 @@ a:active {
 		height:7%;
 	}
 	#icon3{
-		height:7%
+		height:7%;
 	}
 	#buttonskin1{
 		height:7%;
